@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-aiosfasklfngla
-=======
-Ändra nånting där
->>>>>>> 4ee55364cce07c97679eb4f08514dbae81b6784d
+hejsan
+detta 
+är
+Danny
