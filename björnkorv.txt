@@ -1,8 +1,8 @@
 hejsan
+<<<<<<< HEAD
 detta
 är
 <<<<<<< HEAD
-Björne
-=======
-danny
->>>>>>> 6d23aab4573f6ed85f4e98c458dfb9af7a79428f
+
+Mohammed
+>>>>>>> 5d92f813637eedd2405a38b5559ed60d96837538
